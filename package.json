@@ -1,0 +1,25 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musaibdeveloper/Node-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musaibdeveloper/Node-JS/issues"
+  },
+  "homepage": "https://github.com/musaibdeveloper/Node-JS#readme",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "readline-sync": "^1.4.10"
+  }
+}
